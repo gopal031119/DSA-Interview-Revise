@@ -170,7 +170,7 @@ public class LinkedList {
     }
 
     /**
-     * Time Complexity - O(1)
+     * Time Complexity - O(n)
      *
      * @param val
      * @return
