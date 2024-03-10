@@ -1,9 +1,9 @@
 package org.learning.linkedlist;
 
 public class DoublyLL {
-    private static Node head;
-    private static Node tail;
-    private static int size;
+    public static Node head;
+    public static Node tail;
+    public static int size;
 
     static class Node {
         int data;
