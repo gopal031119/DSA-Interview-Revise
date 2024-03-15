@@ -2,7 +2,7 @@ package org.learning.stack;
 
 import java.util.Stack;
 
-public class validParentheses {
+public class ValidParentheses {
 
     public static void main(String args[]) {
         String str = "({[]})";
