@@ -22,8 +22,8 @@ public class BubbleSort {
                     arr[j + 1] = temp;
                     swap++;
                 }
-                if (swap == 0) break;
             }
+            if (swap == 0) break;
         }
         System.out.println(Arrays.toString(arr));
     }
